@@ -99,8 +99,7 @@ If you encounter any issues:
 
 ## Credits
 
-- Game developed by [Your Name]
-- Sound effects from [Source]
+- Game developed by KRISH BUTANI by Amazon Q CLI
 - Inspired by classic arcade games
 
 ## License
