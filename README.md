@@ -29,8 +29,7 @@ Speed Hunter is a simple yet addictive arcade game where you control a car that 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/speed_hunter.git
-   cd speed_hunter
+   git clone https://github.com/KrishButani/Speed-Hunter-using-Amazon-Q-CLI.git
    ```
 
 2. Install the required dependencies:
