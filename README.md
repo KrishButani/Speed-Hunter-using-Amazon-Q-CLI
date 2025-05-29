@@ -102,9 +102,6 @@ If you encounter any issues:
 - Game developed by KRISH BUTANI by Amazon Q CLI
 - Inspired by classic arcade games
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
